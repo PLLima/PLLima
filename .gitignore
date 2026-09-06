@@ -23,7 +23,6 @@ Thumbs.db
 # =========================
 # Secrets & Environment
 # =========================
-# Extremamente importante caso você crie scripts depois
 .env
 .env.local
 .env.development.local
