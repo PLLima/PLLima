@@ -23,7 +23,7 @@
 
 - 🎓 Currently pursuing a **Double Degree** between **CentraleSupélec** (France) and the **Federal University of Rio Grande do Sul - UFRGS** (Brazil).
 - 🧠 **Core Focus:** Predictive Modeling (ML), Full-Stack Enterprise Development, and Low-Level Systems (C/C++ & Real-Time Logic).
-- 🏆 **Recent Highlight:** Top 10 Finalist at the Airbus & IBM Hackathon (Predictive Maintenance ML Pipeline).
+- 🏆 **Recent Highlights:** **1st Place Winner** at the CStudio Game Jam 2026 (20+ teams) & **Top 10 Finalist** at the Airbus & IBM Hackathon (Predictive Maintenance ML Pipeline).
 - 🌍 Based in Gif-sur-Yvette, France. Fluent in English, French, and Portuguese.
 - 📫 How to reach me: [**pedro.lubaszewski.lima@gmail.com**](mailto:pedro.lubaszewski.lima@gmail.com)
 
@@ -35,6 +35,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -45,12 +46,13 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlebard&logoColor=white)
 
-### System Architecture & Web
+### System Architecture, Web & Engines
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 ---
 
@@ -61,8 +63,8 @@
 | **Predictive Maintenance** | Developed an ML pipeline predicting aircraft corrosion risk based on environmental exposure (Airbus & IBM Hackathon — Top 10 Finalist). | `Python`, `XGBoost`, `Scikit-Learn` |
 | [**UK Energy Forecasting**](https://github.com/baunilhamarga/ei-climat) | End-to-end ML pipeline to forecast UK household electricity consumption. Achieved validation RMSE of 0.0082 over 4,000+ rows. | `Python`, `XGBoost`, `AutoGluon` |
 | [**Voice CRM Platform**](https://github.com/4rturB4nd31r4/Project3000) | AI-powered automation utilizing GCP Speech-to-Text V2 and Vertex AI Gemini to autonomously trigger HubSpot APIs. | `Flask`, `React`, `GCP`, `Gemini` |
-| [**HiDrone Web Marketplace**](https://github.com/PLLima/HiDrone) | Highly scalable, full-stack drone delivery marketplace implementing a strict MVC design pattern and Role-Based Access Control. | `Next.js`, `Prisma`, `TypeScript` |
-| [**3D Tower Defense Engine**](https://github.com/PLLima/ThirdPerson-TowerDefense/) | Real-time strategy game processing ~10,000 faces with Gouraud/Blinn-Phong lighting and dynamic Bezier curve pathfinding. | `C++`, `OpenGL`, `Real-Time Logic` |
+| [**HiDrone Web Marketplace**](https://github.com/PLLima/HiDrone) | Full-stack drone delivery marketplace implementing a strict MVC design pattern, Prisma ORM, and simulated virtual credit payments. | `Next.js`, `Prisma`, `TypeScript` |
+| [**Anubis**](https://github.com/PLLima/Anubis) | 2D UI-driven narrative puzzle game built in 24 hours featuring an event-driven Finite State Machine (**1st Place Winner — CStudio Game Jam 2026**). | `C#`, `Unity`, `Real-Time Logic` |
 
 <br/>
 <div align="center">
